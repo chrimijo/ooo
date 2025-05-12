@@ -5,7 +5,7 @@ This Power Automate flow activates automatic out-of-office replies with the foll
 - If the last "ooo" day falls on a Friday, the replies extend until midnight the following Monday.
 - Configures distinct reply messages for both internal and external recipients, specifying the return-to-office date.
 
-[Documentation](index-oooo.md), made with Porwer Automate auto doc https://github.com/modery/PowerDocu
+[Documentation](index-oooo.md), made with https://github.com/modery/PowerDocu
 
 [Realease](/release/)
 
