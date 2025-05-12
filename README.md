@@ -9,6 +9,8 @@ This Power Automate flow activates automatic out-of-office replies with the foll
 
 [Realease](/release/)
 
+Highly inspired from the follwing archived repository https://github.com/toaomatis/AutoffOffice initialy made by [Toaomatis](https://github.com/toaomatis)
+
 
 
 
